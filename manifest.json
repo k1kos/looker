@@ -1,0 +1,11 @@
+{
+    "visualization": "https://yourdomain.com/chart.js",
+    "name": "My brand column chart",
+    "id": "my_brand_custom-column-chart",
+    "description": "A basic column chart using Chart.js",
+    "logoUrl": "https://yourdomain.com/logo.png",
+    "company": "Your Name or Company",
+    "supportUrl": "https://yourdomain.com",
+    "packageUrl": "https://yourdomain.com"
+  }
+  
