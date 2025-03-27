@@ -1,11 +1,32 @@
 {
-    "visualization": "https://k1kos.github.io/looker-column-chart/chart.js",
-    "name": "My brand column chart",
-    "id": "my_brand_custom-column-chart",
-    "description": "A basic column chart using Chart.js",
-    "logoUrl": "https://k1kos.github.io/looker-column-chart/logo.png",
-    "company": "Marcom managament OÜ ",
-    "supportUrl": "https://k1kos.github.io/looker-column-chart",
-    "packageUrl": "https://k1kos.github.io/looker-column-chart"
-  }
+  "name": "My brand column chart",
+  "id": "my_brand_custom-column-chart",
+  "description": "A basic column chart using Chart.js",
+  "version": "1.0.0",
+  "author": {
+    "name": "Marcom managament OÜ",
+    "supportUrl": "https://k1kos.github.io/looker-column-chart"
+  },
+  "logoUrl": "https://k1kos.github.io/looker-column-chart/logo.png",
+  "company": "Marcom managament OÜ",
+  "packageUrl": "https://k1kos.github.io/looker-column-chart",
+  "script": [
+    "https://cdnjs.cloudflare.com/ajax/libs/Chart.js/3.7.0/chart.min.js",
+    "https://k1kos.github.io/looker-column-chart/chart.js"
+  ],
+  "template": "https://k1kos.github.io/looker-column-chart/template.html",
+  "style": [],
+  "data": [
+    {
+      "name": "Category",
+      "label": "Category",
+      "semantics": ["DIMENSION"]
+    },
+    {
+      "name": "Value",
+      "label": "Value",
+      "semantics": ["METRIC"]
+    }
+  ]
+}
   
