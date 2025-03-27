@@ -3,9 +3,9 @@
     "name": "My brand column chart",
     "id": "my_brand_custom-column-chart",
     "description": "A basic column chart using Chart.js",
-    "logoUrl": "https://yourdomain.com/logo.png",
+    "logoUrl": "https://k1kos.github.io/looker-column-chart/logo.png",
     "company": "Marcom managament OÜ ",
-    "supportUrl": "https://marcom.ee",
-    "packageUrl": "https://marcom.ee"
+    "supportUrl": "https://k1kos.github.io/looker-column-chart",
+    "packageUrl": "https://k1kos.github.io/looker-column-chart"
   }
   
