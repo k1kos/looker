@@ -12,7 +12,7 @@
   "packageUrl": "https://k1kos.github.io/looker-column-chart",
   "script": [
     "https://cdnjs.cloudflare.com/ajax/libs/Chart.js/3.7.0/chart.min.js",
-    "https://k1kos.github.io/looker-column-chart/chart.js"
+    "https://k1kos.github.io/looker-column-chart/index.js"
   ],
   "template": "https://k1kos.github.io/looker-column-chart/template.html",
   "style": [],
